@@ -86,3 +86,15 @@ footer {
     background-color: var(--color3);
     box-shadow: var(--shadow);
 }
+
+#list {
+    border: black solid 5px;
+    padding: 15px;
+    background-color: goldenrod;
+}
+.favoriteAnimalListItem {
+    border: black solid 1px;
+    text-align: center;
+    background-color: lightgray;
+    font-weight: bold;
+}     

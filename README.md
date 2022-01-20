@@ -6,6 +6,12 @@ If you work on more than one feature at a time, you are guaranteed to multiply y
 
 ## Making a plan
 
+1. Create title About Bradley!,
+2. Create section for paragraph and list, 
+3. fill content with Name, pronouns, where you live, favorite animals list, fun fact  about me.   
+4. style content with Css( Border, Bold, italics, and multiple sizes.)
+
+
 1. **Make a drawing of your app. Simple "wireframes"**
 1. **Once you have a drawing, name the HTML elements you'll need to realize your vision**
 1. **For each HTML element ask: Why do I need this?**
